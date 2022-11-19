@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827245977732",
+    "project_id": "tarea6-92198",
+    "storage_bucket": "tarea6-92198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827245977732:android:2a035b0d9d1be2260222d1",
+        "android_client_info": {
+          "package_name": "cl.gatica.proyecto6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827245977732-16ot58engio77iot02oa7d77cuel8jph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.gatica.proyecto6",
+            "certificate_hash": "f719bd533784f7b90e7b8fd278a7110246650eab"
+          }
+        },
+        {
+          "client_id": "827245977732-supbvopnsq1bv3pojpfmq8eaqdmfhj74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFJy6jbIG6r0jc255M3xiIJKvNUxIQLqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827245977732-supbvopnsq1bv3pojpfmq8eaqdmfhj74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
